@@ -281,7 +281,7 @@ protected void addres() {
     JButton add = new JButton("Add Result");
     addResult.setLayout(null);
 
-    lbl1.setBounds(300,50,300,30);
+    lbl1.setBounds(299,50,300,30);
     add.setBounds(300,500,300,30);
     reg.setBounds(100,100,200,30);
     oop.setBounds(100,150,200,30);
